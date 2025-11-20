@@ -48,11 +48,11 @@
 			<p class="text-zinc-300">
 				The internet gives us incredible power—knowledge, communication, and convenience right at
 				our fingertips. But like the story of the Sword of Damocles, that power comes with a hidden
-				danger:
+				danger: </p>
 				<strong class="font-semibold text-orange-500">
 					the constant exposure of our personal data
 				</strong>.
-			</p>
+			
 
 			<p class="text-zinc-400">
 				Every site you visit reveals pieces of who you are—your IP address, location, device
