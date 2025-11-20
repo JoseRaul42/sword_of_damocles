@@ -80,10 +80,6 @@
 				</p>
 			</div>
 
-			<p class="pt-4 text-base text-zinc-500 italic md:text-lg">
-				This app exists to show you what hangs above you—so you can strengthen the strand and use
-				the internet with confidence, not fear.
-			</p>
 		</div>
 	</header>
 </section>
