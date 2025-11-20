@@ -60,19 +60,10 @@
 				picture of your identity.
 			</p>
 
-			<div class="my-8 space-y-3 md:my-10">
-				<p class="text-lg font-medium text-orange-600 md:text-xl">The "sword" is your data.</p>
-				<p class="text-lg font-medium text-orange-500 md:text-xl">
-					The thin "strand" holding it up is your awareness.
-				</p>
-			</div>
+	
 
 			<div class="space-y-4 text-zinc-400">
-				<p>
-					If you ignore it, you risk exposing more than you realize.<br />
-					If you understand it, you can protect yourself—using better settings, privacy tools,
-					and safer habits.
-				</p>
+			
 
 				<p class="text-zinc-300">
 					<strong class="font-semibold text-orange-500">Technology isn't the enemy.</strong><br />
