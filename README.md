@@ -1,6 +1,6 @@
 # The Sword of Damocles
 
-![Sword Of Damocles](https://sword-of-damocles.vercel.app/)
+[Sword Of Damocles](https://sword-of-damocles.vercel.app/)
 
 A privacy-focused web application that reveals what personal and device information visitors leak just by visiting a website. Built to raise awareness about digital privacy and browser fingerprinting.
 
